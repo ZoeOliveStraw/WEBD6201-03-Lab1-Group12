@@ -13,4 +13,10 @@
         ContactContents();
     }
     window.addEventListener("load",Start());
+
+    // Contact form redirects to home
+    sendButton.addEventListener("click", function()
+    {
+        location.href = "index.html";
+    })
 })();

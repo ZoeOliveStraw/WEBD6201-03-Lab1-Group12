@@ -22,7 +22,6 @@ function AddBottomNavbar()
     <a class="navbar-brand" href="#">&copy Copyright 2022</a>
     </nav>`)
 }
-
 AddBottomNavbar();
 
 // CONTACT FORM
