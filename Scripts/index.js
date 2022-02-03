@@ -12,5 +12,6 @@
     {
         IndexContents();
     }
+    
     window.addEventListener("load",Start());
 })();
