@@ -8,9 +8,17 @@
         //Insertion of page contents goes after here
     }
 
+    // Sets the nav-link as active and aria-current for the current page
+    function UpdateAboutActive()
+    {
+        document.getElementById("navbarAboutUs").setAttribute("class", "nav-link active");
+        document.getElementById("navbarAboutUs").setAttribute("aria-current", "page");
+    }
+
     function Start()
     {
         AboutContents();
+        UpdateAboutActive();
     }
     window.addEventListener("load",Start());
 })();

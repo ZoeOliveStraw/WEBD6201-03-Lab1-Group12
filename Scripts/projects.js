@@ -14,10 +14,18 @@
         document.title = "Projects";
     }
 
+    // Sets the nav-link as active and aria-current for the current page
+    function UpdateProjectsActive()
+    {
+        document.getElementById("navbarProjects").setAttribute("class", "nav-link active");
+        document.getElementById("navbarProjects").setAttribute("aria-current", "page");
+    }
+
     function Start()
     {
         ProjectsContents();
         RenamePageProjects();
+        UpdateProjectsActive();
     }
     window.addEventListener("load",Start());
 })();

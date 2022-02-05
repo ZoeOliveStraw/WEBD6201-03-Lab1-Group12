@@ -8,9 +8,17 @@
         //Insertion of page contents goes after here
     }
 
+    // Sets the nav-link as active and aria-current for the current page
+    function UpdateHomeActive()
+    {
+        document.getElementById("navbarHome").setAttribute("class", "nav-link active");
+        document.getElementById("navbarHome").setAttribute("aria-current", "page");
+    }
+
     function Start()
     {
         IndexContents();
+        UpdateHomeActive();
     }
     
     window.addEventListener("load",Start());
