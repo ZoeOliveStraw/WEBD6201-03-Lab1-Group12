@@ -1,12 +1,13 @@
+// WEBD6201 - Lab 1 - Group 12
+// Student 1: Zoe Straw - 100303831
+// Student 2: Jacob Kent - 100609784
+// Date: 2022-02-05
 
 "use strict";
 (function()
 {
     // Todo
-    // ADD FONTAWESOME ICONS
-    // ADD HR TO NAVBAR
-    // UPDATE ACTIVE PAGE
-
+    
     // DOM MANIPULATION
 
     // Top Navbar Injection
