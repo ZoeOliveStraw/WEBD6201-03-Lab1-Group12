@@ -8,9 +8,16 @@
         //Insertion of page contents goes after here
     }
 
+    //This function contains logic that renames the title to "projects" rather than "products"
+    function RenamePageProjects()
+    {
+        document.title = "Projects";
+    }
+
     function Start()
     {
         ProjectsContents();
+        RenamePageProjects();
     }
     window.addEventListener("load",Start());
 })();

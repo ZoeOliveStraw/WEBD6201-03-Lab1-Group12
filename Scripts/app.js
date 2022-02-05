@@ -18,7 +18,8 @@
 
     function AddTopNavbar()
     {
-        document.getElementsByTagName('header')[0].innerHTML = `
+        document.getElementsByTagName('header')[0].innerHTML = 
+        `
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">WEBD6201 Lab 1</a>
@@ -34,7 +35,7 @@
                         <a class="nav-link" href="about.html">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="products.html">Projects</a>
+                        <a id="navbarProducts" class="nav-link" href="products.html">Products</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="services.html">Services</a>
@@ -47,6 +48,14 @@
             </div>
         </nav>
         `
+        RenameNavbarProductsToProjects();
+    }
+
+    //This function name is horribly long but it does exactly what it says
+    function RenameNavbarProductsToProjects()
+    {
+        console.log("Called");
+        document.getElementById("navbarProducts").innerHTML = "Projects";
     }
 
     function AddBottomNavbar()
