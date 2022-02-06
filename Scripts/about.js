@@ -39,14 +39,18 @@
                     </div>
                     <div class="row">
                         <div class="col-sm">
-                          <img class="img-fluid" src="./media/JK2021.jpg"><i>A probability analysis example, by Jacob Kent</i></img>
+                          <img class="img-fluid" src="./media/JK2021.jpg"><i>Photo of Jacob</i></img>
+                          <br/><br/><br/><br/><br/>
                         </div>
                         <div class="col-sm">
-                            <p> This image is a section from one worksheet in an Excel Workbook I created for my final paper for Math1110 at Durham College.
-                                The subject of this paper was comparing probabilities of outcomes when rolling two dice when one die has a modifer to its result.
+                            <p> I'm Jacob Kent, a Programming Student at Durham College and graduate from the Human Resources 2-year program from the same institution.
+                            <br/>
+                            So far I've learned the basics of coding Python, C++, C#, PHP, HTML, and Javascript. 
+                            My experiences and education have some together so far to make me skilled at problem solving, data evaluation, and creative thinking.
+
                                 <br/>
-                                While it isn't so visually spectacular, I was able to take the data from my worksheets and work backwards 
-                                to create a formula producing the likelihood or each result based on the number of sides and the dice modifier.
+                                
+                                
                             </p>
                           </div>
                     </div>
