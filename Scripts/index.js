@@ -10,8 +10,8 @@
         <section class="mbr-section content4">
             <div class="container w-50">
                 <div class="media-container-row">
-                    <h1 class="text-center">Welcome to our Lab 1 page for WEBD6201</h1>
-                    <h2 class="text-center font-weight-light">Check out the links in the navbar to learn about us and what we can do for you</h2>
+                    <h1 class="text-center text-white">Welcome to our Lab 1 page for WEBD6201</h1>
+                    <h2 class="text-center font-weight-light text-white">Check out the links in the navbar to learn about us and what we can do for you</h2>
             </div>
         </section>
         
