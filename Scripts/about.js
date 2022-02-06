@@ -52,7 +52,6 @@
                             <br/>
                             So far I've learned the basics of coding Python, C++, C#, PHP, HTML, and Javascript. 
                             My experiences and education have some together so far to make me skilled at problem solving, data evaluation, and creative thinking.
-
                                 <br/>
                                 
                             </p>
