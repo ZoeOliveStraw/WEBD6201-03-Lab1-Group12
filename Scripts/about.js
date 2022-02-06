@@ -33,6 +33,8 @@
                           <br/><br/>Beyond my development and art, I am a huge geek, into Dungeons and Dragons, Star Trek and
                           all manner of video games. I also love makeup, fashion and staying active. If you want to know anything
                           about classic TOHO Godzilla films or the finer points of the Metal Gear Solid games, I'm your girl!</p>
+                          <br/>
+                          <p><a href="https://zoestraw.ca/">My resume</a></p>
                         </div>
                         <div class="col-sm">
                           <img class="img-fluid" src="./media/Resume Picture.jpg"><i>Zoe Straw</i></img>
@@ -53,7 +55,7 @@
                             So far I've learned the basics of coding Python, C++, C#, PHP, HTML, and Javascript. 
                             My experiences and education have some together so far to make me skilled at problem solving, data evaluation, and creative thinking.
                                 <br/>
-                                
+                                <p><a href="https://docs.google.com/document/d/16gnQGFQeJZy0ra5EWheywXegngekV9NKygyFEx6ynE0/edit?usp=sharing">My resume</a></p>
                             </p>
                           </div>
                     </div>
