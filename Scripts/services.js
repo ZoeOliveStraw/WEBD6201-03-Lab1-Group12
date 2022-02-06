@@ -33,21 +33,22 @@
                     </div>
                     <!-- Start of Article 2 contents -->
                     <div class="media-container-row mt-5 mb-6">
-                        <h4 class="text-start font-weight-light">Goth Bedroom - Zoe</h2>
+                        <h4 class="text-start font-weight-light">Full Stack VR development</h2>
                     </div>
                     <div class="row">
                         <div class="col-sm">
-                          <p>This render of a bedroom was my contribution to a popular trend among 3D artists on social media
-                              to create stylized dioramas of interiors. This involve some UV unwrappinga and texture mapping
-                              for the movie posters and a lot of edge beveling and mesh editing to ensure thateverything maintains
-                              a fairly soft, stylized feel.
-                              <br/><br/>The color palette was picked with mind being paid to color theoy so that each color would 
-                              go together fairly well. The movies were picked because classic monster movies have fun classic
-                              film cred and fit with the entire goth aesthetic.
+                          <p>I have been working with the Unity game engine for over 2 years. I am also a hard surface 3D
+                          modeller in Blender and a programmer in C#. I can create fully function Virtual Reality applications
+                          that will build to PC or Android, the two largest VR platforms. These are created with the OpenXR
+                          API and are platform agnostic, so should be easily adaptable to future VR platforms compatible
+                          with the OpenXR standard.
+                          <br/><br/>My focus has been on creating performant, cross platfrom apps that will work on the widest
+                          range of devices and systems possible with a high degree of performance. I can also create 3D art
+                          assets with full PBR as necessary.
                           </p>
                         </div>
                         <div class="col-sm">
-                          <img class="img-fluid" src="./media/Goth bedroom 5.png"><i>Shrine to the Goddess, by Zoe Straw</i></img>
+                          <img class="img-fluid" src="./media/VR-stock-photo.jpg"><i>Virtual Reality Development</i></img>
                         </div>
                     </div>
                     <!-- Start of Article 3 contents -->

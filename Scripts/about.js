@@ -22,15 +22,20 @@
                     </div>
                     <div class="row">
                         <div class="col-sm">
-                          <p>This is a render of a shrine that I made in Blender a few weeks ago. It combines elements
-                               of Shinto and other East Asian shrines that I went to during my travels  in Southeast Asia
-                                in the early 2010s. This was made to experiment with dramatic lighting and reflective 
-                                of materials. <br/><br/>The total poly count of the render is actually quite low, with beveling
-                                being applied via post-processing modifiers instead of being built into meshes. Emmission 
-                                materials and transparency is applied in a number of places to give off the desired effect.</p>
+                          <p>Hi there, my name is Zoe! I am a passionate young tech professional with an especially intense
+                          love for Virtual Reality and other cutting edge media technologies. When not in school learning
+                          the ins and outs of web development, databases, mainframes and object oriented programming, I am
+                          hard at work on passion projects that will enable me to create engaging virtual worlds in VR.
+                          <br/><br/>Beyond programming and game engines, I also enjoy 3D art as a hobby, which enabled me
+                          to create modeled and textured assets for use within my creations. My goal is to be competent in
+                          the full stack of 3D game creation for VR platforms, with platform agnostic and performance focused
+                          designs. I love solving problems.
+                          <br/><br/>Beyond my development and art, I am a huge geek, into Dungeons and Dragons, Star Trek and
+                          all manner of video games. I also love makeup, fashion and staying active. If you want to know anything
+                          about classic TOHO Godzilla films or the finer points of the Metal Gear Solid games, I'm your girl!</p>
                         </div>
                         <div class="col-sm">
-                          <img class="img-fluid" src="./media/Goddess Shrine 3.png"><i>Shrine to the Goddess, by Zoe Straw</i></img>
+                          <img class="img-fluid" src="./media/Resume Picture.jpg"><i>Zoe Straw</i></img>
                         </div>
                     </div>
                     <!-- Start of Article 2 contents -->
